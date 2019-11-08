@@ -13,5 +13,5 @@ elif a == 30:
         print(1,b+1,c)
 elif a < 30:
     print(a+1,b,c)
-elif a in [30,31] and b == 2:
+elif a > 29 and b == 2:
     print("không tồn tại")
