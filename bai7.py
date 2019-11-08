@@ -13,5 +13,5 @@ elif a == 30:
         print(1,b+1,c)
 elif a < 30:
     print(a+1,b,c)
-elif a == 32:
-    pr
+elif a == 30 and b == 2:
+    print("không tồn tại")
