@@ -1,7 +1,7 @@
 thang = int(input("nhap thang: "))
 nam = int(input("nhap nam: "))
 if thang == 2:
-	if(nam%4 == 0 and nam/100!=0) or nam%400 == 0:
+	if (nam % 4 == 0) and (nam/100!=0) or (nam % 400) == 0:
 		songay = 29
 		
 
