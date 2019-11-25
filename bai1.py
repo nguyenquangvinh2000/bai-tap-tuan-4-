@@ -6,5 +6,5 @@ elif thang in [4,5,6]:
     print("quý 2")
 elif thang in [7,8,9]:
     print("quý 3")
-if thang in [10,11,12]:
+elif thang in [10,11,12]:
     print("quý 4")
